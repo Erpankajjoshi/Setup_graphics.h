@@ -131,30 +131,5 @@ Running the file using command in termainl:
 
 ---
 
-Now To set up graphics.h in vs code using MINGW:
 
-alternative video instruction in `hindi` to setup graphics.h lib in vscode
 
-[<img src="https://i.imgur.com/P8xiypZ.png" alt="How to setup graphic.h library in Visual Studio Code | Computer Graphics in VS Code | CGMA " width="50%" />](https://www.youtube.com/embed/ijrNSHwXDAc "How to setup graphic.h library in Visual Studio Code | Computer Graphics in VS Code | CGMA" )
-
- Alternative step wise instruction to setup MinGW along with graphics library (graphics.h)
-
-- ReadME [MinGW & graphics.h setup](https://github.com/sagargoswami2001/Setup-Graphics.h-for-Visual-Studio-Code/blob/main/README.md)
-
-## Contributors ✨
-
-Thanks to these wonderful people:
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Prakash4844"><img src="https://avatars.githubusercontent.com/u/81550376?v=4" width="100px;" alt=""/><br /><sub><b>Prakash4844</b></sub></a><br />
-    <a href="#question-Prakash4844" title="Answering Questions">💬</a> <a href="https://github.com/ullaskunder3/Solution-to-graphics.h/commits?author=Prakash4844" title="Documentation">📖</a>
-     <td align="center"><a href="https://github.com/sagargoswami2001"><img src="https://avatars.githubusercontent.com/u/88379870?v=4" width="100px;" alt=""/><br /><sub><b>sagargoswami2001</b></sub></a><br />
-    <a href="#question-sagargoswami2001" title="Answering Questions">💬</a> <a href="https://github.com/ullaskunder3/Solution-to-graphics.h/commits?author=sagargoswami2001" title="Documentation">📖</a>
-  </tr>
-
-</table>
-"# Setup_graphics.h" 
